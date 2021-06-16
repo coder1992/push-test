@@ -4,6 +4,4 @@ this is my second commit
 
 this is my third commit
 
-just add but not commit
-
-just change but not add
+just change but not add  edit by master
